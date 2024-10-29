@@ -1,6 +1,6 @@
 # athena
 
-Work-in-progress
+(Work-in-progress)
 
 Athena: Safe Autonomous Agents with Verbal Contrastive Learning
 
