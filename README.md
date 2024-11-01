@@ -8,6 +8,8 @@ Abstract. Due to emergent capabilities, large language models (LLMs) have been u
 
 Link to arXiv: https://arxiv.org/abs/2408.11021
 
+Accepted at EMNLP 2024 Industry Track
+
 ```
 @article{sadhu2024athena,
   title={Athena: Safe Autonomous Agents with Verbal Contrastive Learning},
